@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+<p>I am a student at Midway University.</p>
+
+<h2>Education</h2>
+<p>Midway University</p>
+<p>Bachelor’s Degree in Health Science<p>
+<p>Graduation Year: May 2025</p>
+
+<h2>Experience</h2>
+<p>Certified Nurse Assistant</p>
+<p>Location: Saint Louis, MO</p>
+<p>Date: May 2021 - Present</p>
+<p>Insulin Certified</p>
+<p>Assisted residents with their Activities of Daily Living. Administered an average  of 50 medications daily based on prescribed dosages and schedules. Performed regualr checks on medical equipment, identifying and reporting significant changes to the healthcare system. </p>
+
+<h2>Server</h2>
+<p>Location: Saint Louis, MO</p>
+<p>Date: June 2022 - August 2022</p>
+<p>Collaborated with kitchen staff and management to coordinate order delivery and maintain a pleasant dining environment.
+Processed over 500 food and beverage orders monthly with precision.</p>
+
+<h2>Contact</h2>
+<p>Email: amoni.white@midway.edu</p>
+<p>Phone: 987-654-3210<p>
+
+
+</body>
+</html>
+
+
+</body>
+</html>
